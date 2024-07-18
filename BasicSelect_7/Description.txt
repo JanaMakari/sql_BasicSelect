@@ -1,0 +1,9 @@
+Query a list of CITY and STATE from the STATION table.
+the STATION table :
+Field | Type
+ID | NUMBER
+CITY | VARCHAR
+STATE | VARCHAR
+LAT_N | NUMBER
+LONG_W | NUMBER
+where LAT_N is the northern latitude and LONG_W is the western longitude.
